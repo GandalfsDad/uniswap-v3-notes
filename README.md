@@ -1,2 +1,2 @@
-# Uniswap V3 Notes
+# Uniswap V3 Notes :unicorn:
 This repo contains my notes and some rough working files to better understand uniswap v3 liquidity pools. The bulk of this comes from the uniswap v3 [whitepaper](https://uniswap.org/whitepaper-v3.pdf).
